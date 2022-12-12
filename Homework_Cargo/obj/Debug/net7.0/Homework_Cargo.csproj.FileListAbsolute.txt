@@ -1,0 +1,15 @@
+C:\Users\asger\source\repos\Homework_Kargo\Homework_Cargo\obj\Debug\net7.0\Homework_Cargo.csproj.AssemblyReference.cache
+C:\Users\asger\source\repos\Homework_Kargo\Homework_Cargo\obj\Debug\net7.0\Homework_Cargo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asger\source\repos\Homework_Kargo\Homework_Cargo\obj\Debug\net7.0\Homework_Cargo.AssemblyInfoInputs.cache
+C:\Users\asger\source\repos\Homework_Kargo\Homework_Cargo\obj\Debug\net7.0\Homework_Cargo.AssemblyInfo.cs
+C:\Users\asger\source\repos\Homework_Kargo\Homework_Cargo\obj\Debug\net7.0\Homework_Cargo.csproj.CoreCompileInputs.cache
+C:\Users\asger\source\repos\Homework_Kargo\Homework_Cargo\bin\Debug\net7.0\Homework_Cargo.exe
+C:\Users\asger\source\repos\Homework_Kargo\Homework_Cargo\bin\Debug\net7.0\Homework_Cargo.deps.json
+C:\Users\asger\source\repos\Homework_Kargo\Homework_Cargo\bin\Debug\net7.0\Homework_Cargo.runtimeconfig.json
+C:\Users\asger\source\repos\Homework_Kargo\Homework_Cargo\bin\Debug\net7.0\Homework_Cargo.dll
+C:\Users\asger\source\repos\Homework_Kargo\Homework_Cargo\bin\Debug\net7.0\Homework_Cargo.pdb
+C:\Users\asger\source\repos\Homework_Kargo\Homework_Cargo\obj\Debug\net7.0\Homework_Cargo.dll
+C:\Users\asger\source\repos\Homework_Kargo\Homework_Cargo\obj\Debug\net7.0\refint\Homework_Cargo.dll
+C:\Users\asger\source\repos\Homework_Kargo\Homework_Cargo\obj\Debug\net7.0\Homework_Cargo.pdb
+C:\Users\asger\source\repos\Homework_Kargo\Homework_Cargo\obj\Debug\net7.0\Homework_Cargo.genruntimeconfig.cache
+C:\Users\asger\source\repos\Homework_Kargo\Homework_Cargo\obj\Debug\net7.0\ref\Homework_Cargo.dll
